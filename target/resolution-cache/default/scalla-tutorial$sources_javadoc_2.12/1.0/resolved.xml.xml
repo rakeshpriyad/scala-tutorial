@@ -4,7 +4,7 @@
 		module="scalla-tutorial$sources_javadoc_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20180203115009"
+		publication="20180204104949"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
